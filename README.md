@@ -3,7 +3,7 @@
 ## Let the number be N, and we need to find all the numbers which divides this number
 
 ### Solution 1 : Brute Force
-Iterate all numbers between 1 to N/2 and find numbers which divides N ie(N%2==0).
+Iterate all numbers between `1 to N/2` and find numbers which divides *N ie(N%2==0)*.
 <br>
 `Code`
 ```cpp
